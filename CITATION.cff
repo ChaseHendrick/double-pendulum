@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these programs or data, please cite the paper."
+title: "Chaos and Analytic Non-Integrability of the Classical Double Pendulum: A Computer-Assisted Proof"
+type: software
+authors:
+  - given-names: "Chase"
+    family-names: "Hendrick"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0002-9754-6087"
+license: Apache-2.0
+repository-code: "https://github.com/ChaseHendrick/double-pendulum"
+preferred-citation:
+  type: article
+  title: "Chaos and Analytic Non-Integrability of the Classical Double Pendulum: A Computer-Assisted Proof"
+  authors:
+    - given-names: "Chase"
+      family-names: "Hendrick"
+      affiliation: "Independent Researcher"
+      orcid: "https://orcid.org/0009-0002-9754-6087"
+  year: 2026
