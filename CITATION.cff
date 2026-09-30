@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-9754-6087"
 license: Apache-2.0
 repository-code: "https://github.com/ChaseHendrick/double-pendulum"
-doi: "10.5281/zenodo.23048242"
+doi: "10.5281/zenodo.23050590"
 preferred-citation:
   type: article
   title: "Chaos and Analytic Non-Integrability of the Classical Double Pendulum: A Computer-Assisted Proof"
@@ -20,4 +20,4 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0002-9754-6087"
   year: 2026
   url: "https://github.com/ChaseHendrick/double-pendulum"
-  doi: "10.5281/zenodo.23048242"
+  doi: "10.5281/zenodo.23050590"
